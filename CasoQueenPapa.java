@@ -1,3 +1,4 @@
+//Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa hahahahah
 import java.util.Scanner;
 public class CasoQueenPapa {
 	
